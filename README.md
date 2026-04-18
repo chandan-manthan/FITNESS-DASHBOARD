@@ -1,4 +1,4 @@
-<img width="1433" height="793" alt="Screenshot 2026-04-19 001318" src="https://github.com/user-attachments/assets/0aca2247-8650-424e-ae9c-1c26c421018d" /><img width="1433" height="793" alt="Screenshot 2026-04-19 001318" src="https://github.com/user-attachments/assets/409c7e08-1593-4381-9779-e04903f1da9b" /># FITNESS-DASHBOARD
+<img width="1433" height="793" alt="Screenshot 2026-04-19 001318" src="https://github.com/user-attachments/assets/0aca2247-8650-424e-ae9c-1c26c421018d" />< FITNESS-DASHBOARD
 
 # 🏋️ Fitness Dashboard (Power BI)
 
@@ -63,6 +63,55 @@ It provides insights into revenue, expenses, memberships, and client engagement.
 * Better understanding of dashboard storytelling
 
 ---
+
+
+## ❓ Frequently Asked Questions (Q&A)
+
+### 1. What is the purpose of this dashboard?
+
+This dashboard helps analyze the performance of a fitness business by tracking revenue, expenses, client activity, and membership trends.
+
+---
+
+### 2. Which tools and technologies are used?
+
+The project is built using **Power BI**, with data processed using **DAX** and sourced from Excel.
+
+---
+
+### 3. What kind of insights can be derived?
+
+* Monthly profit trends
+* Membership distribution (Platinum, Gold, Silver)
+* Active vs inactive clients
+* Revenue vs expenses comparison
+
+---
+
+### 4. Is the dashboard interactive?
+
+Yes, the dashboard includes filters and visuals that allow users to explore data dynamically.
+
+---
+
+### 5. What challenges did you face while building this project?
+
+Handling data relationships, creating DAX measures, and designing a clean UI layout were key challenges.
+
+---
+
+### 6. What did you learn from this project?
+
+* Data visualization best practices
+* Writing efficient DAX formulas
+* Designing user-friendly dashboards
+
+---
+
+### 7. Can this dashboard be extended further?
+
+Yes, it can be enhanced by adding real-time data integration, advanced analytics, and predictive insights.
+
 
 ## 🤝 Feedback
 
